@@ -1,4 +1,4 @@
-# Sample application for rotating secrets with Autodesk APS and Node.js
+# Sample application for rotating secrets with Autodesk APS
 
 Using the [Application API](https://aps.autodesk.com/en/docs/applications/v1/developers_guide/overview/), you can rotate your APS applications' secrets automatically.
 
