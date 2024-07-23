@@ -39,7 +39,7 @@ Typically, code you adapt from this sample would be deployed to an environment t
 ## Configuration
 
 1. Click on create keypair.js button to create a new key pair.
-1. The previous step will create a `jwks.json` file. Upload this file to your server (for testing purposes, a simple way to host a text file is on [gist.github.com](https://gist.github.com)). How you choose to host your public keyset is up to you, but the keyset must be publicly accessible on the internet and your server must respond with raw JSON.
+1. The previous step will create a `jwks.json` file. Upload this file to your server (for testing purposes, a simple way to host a text file is on [gist.github.com](https://gist.github.com)). How you choose to host your public keyset is up to you, but the keyset must be publicly accessible on the internet and your server must respond with raw JSON. Copy the raw json.
 1. Visit the app settings page in the [Developer Portal](https://aps.autodesk.com) and enter the URL of your public keyset in the "JWKS URI" field.
    Note:- Please make sure that you select Application Management API from the list of APIs dropdown list.
 1. Add your application's `client_id` and `client_secret` to the secret manager (if you have not yet customized the mock secrets manager, you will do this by editing `secrets.json`).
