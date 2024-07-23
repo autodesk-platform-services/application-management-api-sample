@@ -1,4 +1,4 @@
-# Sample application for rotating secrets with Autodesk APS
+# Application Management API(Node.js)
 
 ![platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
 [![node.js](https://img.shields.io/badge/Node.js-20.13-blue.svg)](https://nodejs.org)
